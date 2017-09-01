@@ -178,7 +178,7 @@ textarea {
 	.features-name::after {
 		content: " ";
 		position: absolute;
-		bottom: 100px;
+		bottom: 120px;
 		left: 50%;
 
 		display: block;
@@ -193,7 +193,7 @@ textarea {
 		padding: 0 10px;
 	}
 	.block p {
-		font-size: 16px;
+		font-size: 15px;
 	}
 .index-content {
 	margin-bottom: 35px;
@@ -236,7 +236,6 @@ textarea {
 .btn-def {
 	display: inline-block;
 	padding: 10px 33px;
-	margin-right: 16px;
 
 	font-weight: 700;
 	font-size: 14px;
